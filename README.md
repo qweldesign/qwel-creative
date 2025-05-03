@@ -1,6 +1,6 @@
-# QWEL CREATIVE TEMPLATE
+# QWEL CREATIVE CRAFTS
 
-[QWEL.DESIGN](https://qwel.design/) の作品集 Creative Crafts のためのテンプレート
+[QWEL.DESIGN](https://qwel.design/) が Vanilla JS でスクラッチした、アニメーションやインタラクティブな表現作品群
 
 [https://qwel.design/creative/](https://qwel.design/creative/)
 
