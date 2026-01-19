@@ -31,3 +31,6 @@
 [submodule "stg"]
 	path = stg
 	url = https://github.com/qweldesign/qwel-craft-stg
+[submodule "studies-in-three"]
+	path = studies-in-three
+	url = https://github.com/qweldesign/qwel-creative-studies-in-three
